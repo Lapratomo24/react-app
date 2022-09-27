@@ -1,12 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-import UseEffectCounter from './components/UseEffectCounter';
+import HTTPHooks from './components/HTTPHooks';
 
 function App() {
 
   return (
     <div className="App">
-      <UseEffectCounter />
+      <HTTPHooks />
     </div>
   );
 }
